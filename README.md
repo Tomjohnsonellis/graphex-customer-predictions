@@ -1,2 +1,1 @@
-# graphex-customer-predictions
-Seperate repo for streamlit hosting
+[View the streamlit](url)
